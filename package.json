@@ -1,0 +1,25 @@
+{
+  "name": "threejs-endless",
+  "version": "1.0.0",
+  "description": "threeJS Game",
+  "main": "index.html",
+  "scripts": {
+    "start": "snowpack dev",
+    "build": "snowpack build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/russellmorgan/threeJS-Endless.git"
+  },
+  "author": "russell morgan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/russellmorgan/threeJS-Endless/issues"
+  },
+  "homepage": "https://github.com/russellmorgan/threeJS-Endless#readme",
+  "dependencies": {
+    "snowpack": "^3.8.8",
+    "three": "^0.133.1"
+  }
+}
